@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mul - gives the product of a and b\
+ * mul - gives the product of a and b
  * @a: variable
  * @b: variable
  *
